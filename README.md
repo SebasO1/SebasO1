@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Sebastián Olaya Sánchez / sebasO1</h1>
+<h3 align="center">Software Developer in Progress</h3>
 
-<!--
-**SebasO1/SebasO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Systems Engineering Student
+- 💻 Focused on becoming a Software Developer
+- 🔄 Currently learning Backend & Frontend Development
+- 📍 Bogotá, DC
+- 📚 Constantly improving programming fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html&theme=light"" />
+</p>
+
+---
+
+## 📎 Contact me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-olaya-s%C3%A1nchez-639554348" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SebasO1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
