@@ -23,7 +23,7 @@
 
 ## 🎮 Projects
 
-### [Tower Builder Game](tower_builder/)
+### [Tower Builder Game](tower_builder/) 🏗️
 A fun and engaging tower-building game built with Python and Pygame! Stack blocks to build the tallest tower while managing physics and stability.
 
 **Features:**
@@ -31,6 +31,11 @@ A fun and engaging tower-building game built with Python and Pygame! Stack block
 - Realistic physics with gravity and collision detection
 - High score tracking
 - Clean pixel-style graphics
+
+**How to play:**
+- [📖 English Guide](tower_builder/README.md)
+- [📖 Guía en Español](tower_builder/README_ES.md) 🇪🇸
+- [⚡ Quick Start](tower_builder/INICIO_RAPIDO.md)
 
 [➡️ Play the game](tower_builder/)
 
