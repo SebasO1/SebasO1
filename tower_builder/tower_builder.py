@@ -155,7 +155,7 @@ class Game:
                 with open("high_score.json", "r") as f:
                     data = json.load(f)
                     return data.get("high_score", 0)
-        except:
+        except (json.JSONDecodeError, IOError, OSError):
             pass
         return 0
     
@@ -164,7 +164,7 @@ class Game:
         try:
             with open("high_score.json", "w") as f:
                 json.dump({"high_score": self.high_score}, f)
-        except:
+        except (IOError, OSError):
             pass
     
     def reset_game(self):
